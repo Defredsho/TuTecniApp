@@ -7,15 +7,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import HomeScreen from "./screens/HomeScreen";
 import LoginScreen from "./screens/Login";
 
-const Drawer = createDrawerNavigator();
 
-function MyDrawer() {
-	return (
-		<Drawer.Navigator>
-			<Drawer.Screen name="Home" component={HomeScreen} />
-		</Drawer.Navigator>
-	);
-}
 
 const Stack = createNativeStackNavigator();
 export default function Navigation() {
@@ -23,7 +15,7 @@ export default function Navigation() {
 		<NavigationContainer >
 			<Stack.Navigator initialRouteName="LoginScreen">
 				<Stack.Screen name="Login" component={LoginScreen} options={{headerShown: false}} />
-				<Stack.Screen name="Home" component={HomeScreen} options={{headerShown: false}} />
+				<Stack.Screen name="Home" component={HomeScreen} options={{headerShown: false, backgroundColor: '#FF0000'}} />
 			</Stack.Navigator>
 		</NavigationContainer>
 	);

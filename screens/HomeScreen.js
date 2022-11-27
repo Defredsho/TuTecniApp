@@ -17,10 +17,10 @@ function Inicio() {
 	const navigation = useNavigation();
 	
 	const btnEntrega = () => {
-				navigation.navigate('Entrega');
+				navigation.navigate('Acta de Entrega');
 			}
 	const btnMantenimiento = () => {
-				navigation.navigate('Mantenimiento');
+				navigation.navigate('Acta de Mantenimiento');
 			}
 	return (
 		<View style={styles.container}>

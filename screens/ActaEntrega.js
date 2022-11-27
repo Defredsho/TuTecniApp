@@ -24,164 +24,567 @@ const ActaEntrega = () => {
 	const html = `
 		<html>
 			<body>
-				<table style="width: 100%;border-collapse:collapse;border:none;">
+				<p style='margin:0cm;margin-bottom:2.2pt;font-size:12px;font-family:"Arial",sans-serif;margin-top:2.8pt;margin-right:157.9pt;margin-left:162.95pt;text-align:center;'>Impreso este documento se considera COPIA NO CONTROLADA</p>
+<table style="margin-left: 7.9pt;border-collapse:collapse;border:none;">
     <tbody>
         <tr>
-            <td colspan="2" rowspan="3" style="width: 35.38%;border: 1pt solid windowtext;padding: 0cm 5.4pt;height: 13.45pt;vertical-align: top;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="font-size:13px;font-family:&quot;Trebuchet MS&quot;,sans-serif;"></span><br></p>
+            <td colspan="2" rowspan="3" style="width: 153.8pt;border-width: 2.25pt 1pt 2.25pt 2.25pt;border-style: solid solid double;border-color: black;padding: 0cm;height: 10.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.25pt;'><span style='font-size:8px;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:21.75pt;'><span style='font-size:13px;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
             </td>
-            <td colspan="2" rowspan="3" style="width: 32.3%;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;height: 13.45pt;vertical-align: top;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>MEMORANDO</span></strong></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Interno</span></strong></p>
+            <td colspan="4" rowspan="3" style="width: 292.2pt;border-top: 2.25pt solid black;border-left: none;border-bottom: 2.25pt double black;border-right: 1pt solid black;padding: 0cm;height: 10.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:7.0pt;margin-right:59.8pt;margin-left:67.55pt;text-indent:-2.8pt;line-height:117%;'><strong><span style="font-size:15px;line-height:117%;">INFORME DE MANTENIMIENTO PARA EQUIPOS DE C&Oacute;MPUTO</span></strong></p>
             </td>
-            <td colspan="2" style="width: 32.32%;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;height: 13.45pt;vertical-align: top;">
-                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;'>COD:F-GH-17</p>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" style="width: 32.32%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 13.45pt;vertical-align: top;">
-                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;'>FE:2012/04/18</p>
+            <td style="width: 126.95pt;border-top: 2.25pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 10.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.2pt;margin-right:0cm;margin-left:1.9pt;line-height:8.6pt;'><span style="font-size:11px;">COD: F-GT-05</span></p>
             </td>
         </tr>
         <tr>
-            <td colspan="2" style="width: 32.32%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 13.45pt;vertical-align: top;">
-                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;'>VE:01</p>
+            <td style="width: 126.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 8.45pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:1.9pt;line-height:7.5pt;'><span style="font-size:11px;">FE: 2013/06/19</span></p>
             </td>
         </tr>
         <tr>
-            <td colspan="6" style="width: 100%;border-top: none;border-right: none;border-left: none;border-image: initial;border-bottom: 1pt solid windowtext;padding: 0cm 5.4pt;height: 18.4pt;vertical-align: top;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></strong></p>
+            <td style="width: 126.95pt;border-top: none;border-left: none;border-bottom: 2.25pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 10.5pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:1.9pt;line-height:8.75pt;'><span style="font-size:11px;">VE: 02</span></p>
             </td>
         </tr>
         <tr>
-            <td colspan="2" style="width: 35.38%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;height: 14.4pt;vertical-align: bottom;">
-                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;'><strong>FECHA:${fecha}</strong></p>
-            </td>
-            <td colspan="2" style="width: 32.3%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 14.4pt;vertical-align: bottom;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>DE:${de}</span></strong></p>
-            </td>
-            <td colspan="2" style="width: 32.32%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 14.4pt;vertical-align: bottom;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>PARA:${para}</span></strong></p>
+            <td colspan="7" style="width: 572.95pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 2.25pt double black;border-right: 2.25pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 10.25pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:183.4pt;line-height:9.3pt;'><strong><span style="font-size:11px;">1. INVENTARIO Y REVISI&Oacute;N F&Iacute;SICA DE COMPONENTES</span></strong></p>
             </td>
         </tr>
         <tr>
-            <td colspan="6" style="width: 100%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: bottom;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>ASUNTO</span></strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>: Acta de Entrega</span></p>
+            <td rowspan="4" style="width: 126.25pt;border-right: 2.25pt solid black;border-bottom: 2.25pt solid black;border-left: 2.25pt solid black;border-image: initial;border-top: none;padding: 0cm;height: 11.9pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:13px;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.2pt;'><span style='font-size:13px;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.05pt;margin-right:0cm;margin-left:10.7pt;'><strong><span style="font-size:11px;">INFORMACION DEL EQUIPO</span></strong></p>
+            </td>
+            <td colspan="2" style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 11.9pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.7pt;margin-right:0cm;margin-left:1.35pt;'><span style="font-size:11px;">Port&aacute;til</span></p>
+            </td>
+            <td style="width: 22.7pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 11.9pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'>&nbsp;</p>
+            </td>
+            <td style="width: 111.9pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 11.9pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.7pt;margin-right:0cm;margin-left:1.35pt;'><span style="font-size:11px;">Marca</span></p>
+            </td>
+            <td style="width: 92.5pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 11.9pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td style="width: 126.95pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 11.9pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:46.25pt;margin-left:48.05pt;text-align:center;line-height:9.6pt;'><span style="font-size:11px;">Usuario</span></p>
             </td>
         </tr>
         <tr>
-            <td colspan="6" style="width: 100%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: bottom;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></strong></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>DESCRIPCI&Oacute;N</span></strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>:&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>De manera atenta me permito hacerle entrega del siguiente elemento:</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                <table style="border-collapse:collapse;border:none;">
-                    <tbody>
-                        <tr>
-                            <td style="width:28.1pt;border:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:8px;font-family:"Trebuchet MS",sans-serif;'>CANT</span></strong></p>
-                            </td>
-                            <td style="width: 5cm;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;vertical-align: top;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></strong></p>
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>ELEMENTO</span></strong></p>
-                            </td>
-                            <td style="width: 70.9pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;vertical-align: top;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></strong></p>
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>MARCA</span></strong></p>
-                            </td>
-                            <td style="width: 92.15pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;vertical-align: top;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></strong></p>
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>MODELO</span></strong></p>
-                            </td>
-                            <td style="width: 134.65pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;vertical-align: top;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></strong></p>
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>REFERENCIA</span></strong></p>
-                            </td>
-                            <td style="width: 71.95pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;vertical-align: top;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></strong></p>
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>ESTADO</span></strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="width: 28.1pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;height: 15.8pt;vertical-align: bottom;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>${cantidad}</span></p>
-                            </td>
-                            <td style="width: 5cm;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 15.8pt;vertical-align: bottom;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>${elemento}</span></p>
-                            </td>
-                            <td style="width: 70.9pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 15.8pt;vertical-align: bottom;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>${marca}</span></p>
-                            </td>
-                            <td style="width: 92.15pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 15.8pt;vertical-align: bottom;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>${modelo}</span></p>
-                            </td>
-                            <td style="width: 134.65pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 15.8pt;vertical-align: bottom;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;">IT-PC-096</span></p>
-                            </td>
-                            <td style="width: 71.95pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 15.8pt;vertical-align: bottom;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>${estado}</span></p>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Trebuchet MS",sans-serif;'>${caracteristicas}</span><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>:</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><br></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Condiciones:&nbsp;</span></strong></p>
-                <div style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;'>
-                    <ol style="margin-bottom:0cm;list-style-type: decimal;margin-left:26px;">
-                        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Trebuchet MS",sans-serif;'>Se&nbsp;</span><span style='font-family:"Trebuchet MS",sans-serif;font-size:10.0pt;'>entiende que <strong>Mediimplantes S.A.</strong> es &nbsp;el propietario del o los elemento(s) aqu&iacute; mencionados. Esto quiere decir que Mediimplantes da en pr&eacute;stamo los elemento(s) aqu&iacute; mencionado(s). Esto significa que para los casos de perdida, hurto y/o da&ntilde;o por mal uso de o los elemento(s), es responsable de reponer el o los elemento(s) en el mismo estado en que se entregaron con esta acta.</span></li>
-                        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Trebuchet MS",sans-serif;font-size:10.0pt;'>Los equipos aqu&iacute; mencionados no debe tener instalado ning&uacute;n software fuera del estipulado por el departamento de tecnolog&iacute;a.</span></li>
-                        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Trebuchet MS",sans-serif;font-size:10.0pt;'>Prestar los elementos a personal ajeno a la compa&ntilde;&iacute;a o a un compa&ntilde;ero de trabajo no lo exenta de responsabilidades.</span></li>
-                        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Trebuchet MS",sans-serif;font-size:10.0pt;'>La compa&ntilde;&iacute;a puede modificar sin previo aviso y sin consultar al empleado sobre cambios en los elementos aqu&iacute; mencionados. Lo anterior siguiendo conductos regulares de la compa&ntilde;&iacute;a y autorizaci&oacute;n de gerencia.&nbsp;</span></li>
-                        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Trebuchet MS",sans-serif;font-size:10.0pt;'>En caso de da&ntilde;o del equipo generado por Ca&iacute;das o por uso indebido que conlleve un costo ser&aacute; asumido por el usuario el 50% de la reparaci&oacute;n del articulo</span></li>
-                    </ol>
+            <td colspan="2" style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:1.35pt;line-height:8.85pt;'><span style="font-size:11px;">Equipo de Escritorio</span></p>
+            </td>
+            <td style="width: 22.7pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'>&nbsp; &nbsp; &nbsp;</p>
+            </td>
+            <td style="width: 111.9pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:1.4pt;line-height:8.85pt;'><span style="font-size:11px;">Modelo</span></p>
+            </td>
+            <td style="width: 92.5pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td style="width: 126.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 12.2pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.75pt;margin-right:0cm;margin-left:1.35pt;'><span style="font-size:11px;">Cliente ligero</span></p>
+            </td>
+            <td style="width: 22.7pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 12.2pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:11px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 111.9pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 12.2pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.75pt;margin-right:0cm;margin-left:1.3pt;'><span style="font-size:11px;">Numero de Inventario</span></p>
+            </td>
+            <td style="width: 92.5pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 12.2pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td style="width: 126.95pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 12.2pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.75pt;margin-right:  45.65pt;margin-left:48.05pt;text-align:center;'><span style="font-size:11px;">Fecha</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 92.65pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 13.15pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.0pt;margin-right:0cm;margin-left:1.35pt;'><span style="font-size:11px;">Servidor</span></p>
+            </td>
+            <td style="width: 22.7pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 13.15pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:11px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 111.9pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 1pt solid black;padding: 0cm;height: 13.15pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.0pt;margin-right:0cm;margin-left:1.35pt;'><span style="font-size:11px;">&Aacute;rea</span></p>
+            </td>
+            <td style="width: 92.5pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 13.15pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td style="width: 126.95pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 13.15pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.95pt;margin-right:  0cm;margin-left:1.3pt;text-align:  center;'><strong><span style="font-size:10px;">D: &nbsp;&nbsp;</span></strong><span style='font-size:10px;font-family:"Times New Roman",serif;'>&nbsp; &nbsp; &nbsp;</span><strong><span style="font-size:10px;">M: &nbsp;&nbsp;</span></strong><span style='font-size:10px;font-family:"Times New Roman",serif;'>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:10px;">A: &nbsp; &nbsp;&nbsp;</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+        </tr>
+    </tbody>
+</table>
+<p style='margin:0cm;margin-bottom:.05pt;font-size:12px;font-family:"Arial",sans-serif;margin-top:.4pt;margin-right:0cm;margin-left:0cm;'><span style="font-size:5px;">&nbsp;</span></p>
+<table style="margin-left: 7.9pt;border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td colspan="12" style="width: 573.3pt;border: 2.25pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 9.35pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:253.6pt;line-height:8.4pt;'><strong><span style="font-size:11px;">1.1 PERIFERICOS</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" style="width: 193pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 2.25pt solid black;border-right: 1pt solid black;padding: 0cm;height: 11.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:55.15pt;line-height:9.65pt;'><strong><span style="font-size:12px;">TIPO DE PERIFRICO</span></strong></p>
+            </td>
+            <td colspan="4" style="width: 160.65pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 1pt solid black;padding: 0cm;height: 11.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.6pt;margin-right:  64.0pt;margin-left:66.05pt;text-align:center;'><strong><span style="font-size:10px;">ESTADO</span></strong></p>
+            </td>
+            <td colspan="4" style="width: 219.65pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 11.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.6pt;margin-right:  78.35pt;margin-left:80.7pt;text-align:center;'><strong><span style="font-size:10px;">OBSERVACIONES</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="width: 94.7pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 9.05pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:5.25pt;margin-right:0cm;margin-left:30.9pt;'><strong><span style="font-size:10px;">MONITOR</span></strong></p>
+            </td>
+            <td colspan="3" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 9.05pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.1pt;margin-right:0cm;margin-left:7.0pt;line-height:7.95pt;'><span style="font-size:10px;">NUMERO DE INVENTARIO</span></p>
+            </td>
+            <td colspan="4" rowspan="2" style="width: 160.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 9.05pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td colspan="4" rowspan="2" style="width: 219.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 9.05pt;vertical-align: top;"><br></td>
+        </tr>
+        <tr>
+            <td colspan="3" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="width: 94.7pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 8.6pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:4.45pt;margin-right:  .4pt;margin-left:3.0pt;text-align:  center;'><strong><span style="font-size:10px;">MOUSE</span></strong></p>
+            </td>
+            <td colspan="3" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 8.6pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:6.95pt;line-height:7.65pt;'><span style="font-size:10px;">NUMERO DE INVENTARIO</span></p>
+            </td>
+            <td colspan="4" rowspan="2" style="width: 160.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 8.6pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td colspan="4" rowspan="2" style="width: 219.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 8.6pt;vertical-align: top;"><br></td>
+        </tr>
+        <tr>
+            <td colspan="3" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="width: 94.7pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 8.6pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:4.45pt;margin-right:0cm;margin-left:30.85pt;'><strong><span style="font-size:10px;">TECLADO</span></strong></p>
+            </td>
+            <td colspan="3" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 8.6pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:6.95pt;line-height:7.65pt;'><span style="font-size:10px;">NUMERO DE INVENTARIO</span></p>
+            </td>
+            <td colspan="4" rowspan="2" style="width: 160.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 8.6pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td colspan="4" rowspan="2" style="width: 219.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 8.6pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="width: 94.7pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 2.25pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 6.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:4.45pt;margin-right:  .55pt;margin-left:3.0pt;text-align:  center;'><strong><span style="font-size:10px;">OTRO</span></strong></p>
+            </td>
+            <td colspan="3" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 6.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:6.95pt;line-height:5.75pt;'><span style="font-size:10px;">NUMERO DE INVENTARIO</span></p>
+            </td>
+            <td colspan="4" rowspan="2" style="width: 160.65pt;border-top: none;border-left: none;border-bottom: 2.25pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:11px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td colspan="4" rowspan="2" style="width: 219.65pt;border-top: none;border-left: none;border-bottom: 2.25pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 6.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:11px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 2.25pt double black;border-right: 1pt solid black;padding: 0cm;height: 4.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:3px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="12" style="width: 573.3pt;border-right: 2.25pt solid black;border-bottom: 2.25pt solid black;border-left: 2.25pt solid black;border-image: initial;border-top: none;background: rgb(219, 229, 241);padding: 0cm;height: 10.1pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:204.5pt;line-height:9.15pt;'><strong><span style="font-size:11px;">2. PROCEDIMIENTO PARA LIMPIEZA FISICA</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="8" style="width: 353.65pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 22.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:5.15pt;margin-right:  150.75pt;margin-left:152.45pt;text-align:center;'><strong><span style="font-size:12px;">ACTIVIDAD</span></strong></p>
+            </td>
+            <td style="width: 44.55pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 22.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.1pt;margin-right:  .95pt;margin-left:2.5pt;text-align:  center;'><strong><span style="font-size:11px;">REALIZAD</span></strong></p>
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.65pt;margin-right:  0cm;margin-left:1.5pt;text-align:  center;line-height:9.65pt;'><strong><span style="font-size:11px;">O</span></strong></p>
+            </td>
+            <td style="width: 48.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 22.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.1pt;margin-right:  0cm;margin-left:1.45pt;text-align:  center;'><strong><span style="font-size:11px;">NO</span></strong></p>
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.65pt;margin-right:  0cm;margin-left:1.35pt;text-align:  center;line-height:9.65pt;'><strong><span style="font-size:11px;">REALIZADO</span></strong></p>
+            </td>
+            <td colspan="2" style="width: 127.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 22.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:5.5pt;margin-right:0cm;margin-left:36.35pt;'><strong><span style="font-size:11px;">OBSERVACI&Oacute;N</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="8" style="width: 353.65pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:2.95pt;margin-right:0cm;margin-left:1.35pt;'><span style="font-size:11px;">1. Limpieza interna del chasis mediante uso de aire a presi&oacute;n.</span></p>
+            </td>
+            <td style="width:44.55pt;border-top:none;border-left:none;border-bottom:double black 1.5pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm;height:15.75pt;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style="font-size:9px;color:black;">&nbsp;&nbsp;</span></p>
+            </td>
+            <td style="width: 48.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td colspan="2" style="width: 127.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="8" style="width: 353.65pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 25.05pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.15pt;margin-right:0cm;margin-left:1.4pt;line-height:11.5pt;'><span style="font-size:11px;">2. Limpieza de los coolers del equipo (disipador del procesador, coolers de ventilaci&oacute;n etc) mediante brochas o pinceles.</span></p>
+            </td>
+            <td style="width:44.55pt;border-top:none;border-left:none;border-bottom:double black 1.5pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm;height:25.05pt;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:13px;font-family:"Times New Roman",serif;color:black;'>&nbsp;&nbsp;</span></p>
+            </td>
+            <td style="width: 48.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 25.05pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td colspan="2" style="width: 127.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 25.05pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="8" style="width: 353.65pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 20.15pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:4.7pt;margin-right:0cm;margin-left:1.4pt;'><span style="font-size:11px;">3. Verificaci&oacute;n de componentes internos, conexiones y estado f&iacute;sico de cada dispositivo.</span></p>
+            </td>
+            <td style="width:44.55pt;border-top:none;border-left:none;border-bottom:double black 1.5pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm;height:20.15pt;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td style="width: 48.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 20.15pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:13px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td colspan="2" style="width: 127.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 20.15pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="8" style="width: 353.65pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 15.95pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:2.55pt;margin-right:0cm;margin-left:1.4pt;'><span style="font-size:11px;">4. Limpieza de Fuente de poder, revisar conexiones correctas.</span></p>
+            </td>
+            <td style="width:44.55pt;border-top:none;border-left:none;border-bottom:double black 1.5pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm;height:15.95pt;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:13px;font-family:"Times New Roman",serif;color:black;'>&nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 48.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 15.95pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td colspan="2" style="width: 127.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 15.95pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="8" style="width: 353.65pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 15.35pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:2.3pt;margin-right:0cm;margin-left:1.35pt;'><span style="font-size:11px;">5. Limpieza externa del chasis mediante pa&ntilde;os de microfibra.</span></p>
+            </td>
+            <td style="width:44.55pt;border-top:none;border-left:none;border-bottom:double black 1.5pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm;height:15.35pt;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:13px;font-family:"Times New Roman",serif;color:black;'>&nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 48.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 15.35pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:11px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td colspan="2" style="width: 127.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 15.35pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="8" style="width: 353.65pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 2.25pt solid black;border-right: 1pt solid black;padding: 0cm;height: 14.35pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.6pt;margin-right:0cm;margin-left:1.35pt;'><span style="font-size:11px;">6. Limpieza de perif&eacute;ricos mouse, teclado, monitor.</span></p>
+            </td>
+            <td style="width:44.55pt;border-top:none;border-left:none;border-bottom:solid black 2.25pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm;height:14.35pt;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:13px;font-family:"Times New Roman",serif;color:black;'>&nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 48.05pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 1pt solid black;padding: 0cm;height: 14.35pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:11px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td colspan="2" style="width: 127.05pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 14.35pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="12" style="width: 573.3pt;border-top: none;border-right: none;border-left: none;border-image: initial;border-bottom: 2.25pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 2.5pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:1px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="12" style="width: 573.3pt;border-right: 2.25pt solid black;border-bottom: 2.25pt solid black;border-left: 2.25pt solid black;border-image: initial;border-top: none;background: rgb(219, 229, 241);padding: 0cm;height: 10.55pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:195.9pt;line-height:9.6pt;'><strong><span style="font-size:11px;">3. REVISI&Oacute;N Y MANTENIMIENTO DE SOFTWARE</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 94.7pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 10.25pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.05pt;margin-right:  .65pt;margin-left:3.0pt;text-align:  center;line-height:8.2pt;'><strong><span style="font-size:10px;">SISTEMA OPERATIVO</span></strong></p>
+            </td>
+            <td colspan="6" style="width: 202.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 10.25pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td style="width: 56.3pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 10.25pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.05pt;margin-right:  6.9pt;margin-left:9.05pt;text-align:  center;line-height:8.2pt;'><span style="font-size:10px;">ACTIVADO</span></p>
+            </td>
+            <td style="width: 44.55pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 10.25pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.05pt;margin-right:  .45pt;margin-left:2.5pt;text-align:  center;line-height:8.2pt;'><span style="font-size:10px;">SI</span></p>
+            </td>
+            <td style="width: 48.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 10.25pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td style="width: 56.35pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 10.25pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:20.85pt;margin-left:22.6pt;text-align:center;line-height:8.1pt;'><span style="font-size:10px;">NO</span></p>
+            </td>
+            <td style="width: 70.7pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 10.25pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:9px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 94.7pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 11pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.5pt;margin-right:  .45pt;margin-left:3.0pt;text-align:  center;line-height:9.5pt;'><strong><span style="font-size:11px;">COPIA IMAGEN</span></strong></p>
+            </td>
+            <td style="width: 31.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 11pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.15pt;margin-right:  8.15pt;margin-left:9.95pt;text-align:  center;'><span style="font-size:10px;">SI</span></p>
+            </td>
+            <td colspan="2" style="width: 66.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 11pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:9px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 26.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 11pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.15pt;margin-right:0cm;margin-left:8.55pt;'><span style="font-size:10px;">NO</span></p>
+            </td>
+            <td colspan="2" style="width: 78.3pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 11pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:9px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 56.3pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 11pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.15pt;margin-right:  6.9pt;margin-left:9.15pt;text-align:  center;'><span style="font-size:10px;">PROGRAMA</span></p>
+            </td>
+            <td colspan="4" style="width: 219.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 11pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:9px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="width: 94.7pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:3.5pt;margin-right:0cm;margin-left:28.6pt;'><strong><span style="font-size:10px;">ANTIVIRUS</span></strong></p>
+            </td>
+            <td style="width: 31.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:8.15pt;margin-left:9.95pt;text-align:center;line-height:6.3pt;'><span style="font-size:10px;">SI</span></p>
+            </td>
+            <td style="width: 27.5pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style="font-size:11px;">X</span></p>
+            </td>
+            <td rowspan="2" style="width: 39.15pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:3.5pt;margin-right:0cm;margin-left:11.25pt;'><span style="font-size:10px;">CUAL</span></p>
+            </td>
+            <td colspan="2" rowspan="2" style="width: 48.75pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td rowspan="2" style="width: 55.6pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:3.5pt;margin-right:0cm;margin-left:4.45pt;'><span style="font-size:10px;">ACTUALIZADO</span></p>
+            </td>
+            <td style="width: 56.3pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:6.9pt;margin-left:9.0pt;text-align:center;line-height:6.3pt;'><span style="font-size:10px;">SI</span></p>
+            </td>
+            <td style="width: 44.55pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td rowspan="2" style="width: 48.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:3.5pt;margin-right:0cm;margin-left:4.85pt;'><span style="font-size:10px;">FUNCIONAL</span></p>
+            </td>
+            <td style="width: 56.35pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:20.75pt;margin-left:22.6pt;text-align:center;line-height:6.3pt;'><span style="font-size:10px;">SI</span></p>
+            </td>
+            <td style="width: 70.7pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 7.3pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style="font-size:11px;">&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 31.65pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.1pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:8.2pt;margin-left:9.95pt;text-align:center;line-height:5.1pt;'><span style="font-size:10px;">NO</span></p>
+            </td>
+            <td style="width: 27.5pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.1pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:4px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 56.3pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.1pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:6.9pt;margin-left:8.9pt;text-align:center;line-height:5.1pt;'><span style="font-size:10px;">NO</span></p>
+            </td>
+            <td style="width: 44.55pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.1pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:4px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width:56.35pt;border-top:none;border-left:none;border-bottom:double black 1.5pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm;height:6.1pt;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:20.85pt;margin-left:22.6pt;text-align:center;line-height:5.1pt;'><span style='font-size:13px;font-family:"Times New Roman",serif;'>no</span></p>
+            </td>
+            <td style="width: 70.7pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 6.1pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="width: 94.7pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:3.5pt;margin-right:0cm;margin-left:10.15pt;'><strong><span style="font-size:10px;">PAQUETE OFIMATICA</span></strong></p>
+            </td>
+            <td colspan="5" rowspan="2" style="width: 147.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style="font-size:11px;">&nbsp;</span></p>
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td rowspan="2" style="width: 55.6pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:3.5pt;margin-right:0cm;margin-left:4.45pt;'><span style="font-size:10px;">ACTUALIZADO</span></p>
+            </td>
+            <td style="width: 56.3pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:6.9pt;margin-left:9.0pt;text-align:center;line-height:5.7pt;'><span style="font-size:10px;">SI</span></p>
+            </td>
+            <td style="width: 44.55pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+            <td rowspan="2" style="width: 48.05pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:3.5pt;margin-right:0cm;margin-left:4.85pt;'><span style="font-size:10px;">FUNCIONAL</span></p>
+            </td>
+            <td style="width: 56.35pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:20.75pt;margin-left:22.6pt;text-align:center;line-height:5.7pt;'><span style="font-size:10px;">SI</span></p>
+            </td>
+            <td style="width: 70.7pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><br></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 56.3pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:6.9pt;margin-left:8.9pt;text-align:center;line-height:5.7pt;'><span style="font-size:10px;">NO</span></p>
+            </td>
+            <td style="width: 44.55pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:5px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 56.35pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:20.85pt;margin-left:22.6pt;text-align:center;line-height:5.7pt;'><span style="font-size:10px;">NO</span></p>
+            </td>
+            <td style="width: 70.7pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 6.7pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'><span style='font-size:5px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="width: 94.7pt;border-top: none;border-left: 2.25pt solid black;border-bottom: 1.5pt double black;border-right: 2.25pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.35pt;margin-right:  .95pt;margin-left:3.0pt;text-align:  center;'><strong><span style="font-size:10px;">CONEXI&Oacute;N A ESCRITORIO</span></strong></p>
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:1.85pt;margin-right:  .95pt;margin-left:3.0pt;text-align:  center;'><strong><span style="font-size:10px;">REMOTO</span></strong></p>
+            </td>
+            <td colspan="3" rowspan="2" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:6.6pt;margin-right:0cm;margin-left:24.25pt;'><span style="font-size:10px;">CONFIGURADO</span></p>
+            </td>
+            <td colspan="2" style="width: 48.75pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.25pt;margin-right:  16.8pt;margin-left:18.9pt;text-align:  center;line-height:8.55pt;'><span style="font-size:10px;">SI</span></p>
+            </td>
+            <td style="width: 55.6pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:8px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td colspan="5" rowspan="5" style="width: 275.95pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 2.25pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.25pt;'><span style='font-size:13px;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.05pt;margin-right:0cm;margin-left:77.6pt;'><strong><span style="font-size:10px;">MANTENIMIENTO REALIZADO POR:</span></strong></p>
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.05pt;margin-right:0cm;margin-left:77.6pt;'><strong><span style="font-size:10px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.05pt;margin-right:0cm;margin-left:77.6pt;'>_______________________</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 48.75pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.25pt;margin-right:  16.8pt;margin-left:19.05pt;text-align:center;line-height:8.55pt;'><span style="font-size:10px;">NO</span></p>
+            </td>
+            <td style="width: 55.6pt;border-top: none;border-left: none;border-bottom: 1.5pt double black;border-right: 1pt solid black;padding: 0cm;height: 9.8pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:8px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3" style="width: 94.7pt;border-right: 2.25pt solid black;border-bottom: 2.25pt solid black;border-left: 2.25pt solid black;border-image: initial;border-top: none;padding: 0cm;height: 10.2pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.1pt;'><span style='font-size:15px;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:6.4pt;'><strong><span style="font-size:10px;">SOFTWARE ESPECIFICO</span></strong></p>
+            </td>
+            <td colspan="3" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 10.2pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:29.3pt;line-height:8.5pt;'><span style="font-size:10px;">SOLID EDGE</span></p>
+            </td>
+            <td style="width: 26.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 10.2pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:9px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td colspan="2" style="width: 78.3pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 10.2pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:25.35pt;margin-left:27.5pt;text-align:center;line-height:8.5pt;'><span style="font-size:10px;">OTROS</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 11.15pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.75pt;margin-right:0cm;margin-left:28.6pt;'><span style="font-size:10px;">MASTERCAM</span></p>
+            </td>
+            <td style="width: 26.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 11.15pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:9px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+            <td colspan="2" rowspan="2" style="width: 78.3pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 1pt solid black;padding: 0cm;height: 11.15pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:11px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" style="width: 98.3pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 1pt solid black;padding: 0cm;height: 10.5pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:0cm;margin-right:35.6pt;margin-left:37.55pt;text-align:center;line-height:8.05pt;'><span style="font-size:10px;">CIMCO</span></p>
+            </td>
+            <td style="width: 26.05pt;border-top: none;border-left: none;border-bottom: 2.25pt solid black;border-right: 1pt solid black;padding: 0cm;height: 10.5pt;vertical-align: top;">
+                <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;text-align:center;'><span style='font-size:9px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+            <td style="border:none;"><br></td>
+        </tr>
+    </tbody>
+</table>
+<p style='margin:0cm;margin-bottom:.0001pt;font-size:12px;font-family:"Arial",sans-serif;'><span style="font-size:13px;">&nbsp;</span></p>
+<p style='margin:0cm;margin-bottom:.0001pt;font-size:12px;font-family:"Arial",sans-serif;margin-top:.45pt;'><br></p>
+<table style="width: 100%">
+    <tbody>
+        <tr>
+            <td>
+                <div style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;'>
+                    <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.25pt;margin-right:0cm;margin-left:.8pt;'><strong><span style="font-size:10px;">OBSERVACIONES:</span></strong></p>
+                    <p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-top:.25pt;margin-right:0cm;margin-left:.8pt;'><br></p>
                 </div>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:36.0pt;font-size:16px;font-family:"Arial",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Recomendaciones:</span></strong></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>En caso de que el equipo presentara fallas de operatividad, por favor notificar al departamento de tecnolog&iacute;a con el fin de realizar verificaci&oacute;n y solicitar garant&iacute;as y/o reparaciones.&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Evitar maltratos al equipo como ca&iacute;das, golpes o rayones que causen alteraciones en funcionalidad y estado f&iacute;sico del equipo.</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 31.86%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></strong></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Firma del Enterado:</span></strong></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></strong></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>________________________</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Nombre:_________________</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Cedula:__________________</span></p>
-            </td>
-            <td colspan="2" style="width: 29.6%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></strong></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Firma del Remitente:</span></strong></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></strong></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>______________________</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Nombre:______________</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Cedula:_______________</span></p>
-            </td>
-            <td colspan="2" style="width: 15.44%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Hora:_______</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Fecha:______</span></p>
-            </td>
-            <td style="width: 23.1%;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>Anexado a la hoja de vida:</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Trebuchet MS",sans-serif;'>&nbsp;</span></p>
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size:13px;font-family:&quot;Trebuchet MS&quot;,sans-serif;"></span><br></p>
             </td>
         </tr>
     </tbody>
 </table>
+<p><br></p>
+<p>&nbsp;</p>
+<p style='margin:0cm;margin-bottom:.0001pt;font-size:12px;font-family:"Arial",sans-serif;'><span style="font-size:13px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+<p style='margin:0cm;margin-bottom:.0001pt;font-size:12px;font-family:"Arial",sans-serif;margin-top:.45pt;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;_________________________________ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _________________________________</p>
+<p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:157.7pt;line-height:8.85pt;'><strong><span style="font-size:11px;">USUARIO</span></strong><span style='font-size:11px;font-family:"Times New Roman",serif;'>&nbsp; &nbsp; &nbsp;</span><span style='font-size:11px;font-family:"Times New Roman",serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:11px;">REVISADO POR</span></strong></p>
+<p style='margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Trebuchet MS",sans-serif;margin-left:157.7pt;line-height:8.85pt;'><br></p>
 			</body>
 		</html>
 	`;
@@ -296,7 +699,7 @@ const styles = StyleSheet.create({
   },
 	mainContainer:{
 		flex: 1,
-		backgroundColor: '#42A6FE',
+		backgroundColor: '#9ACEF8',
 		paddingTop: StatusBar.currentHeight,
 	},
 	container: {
